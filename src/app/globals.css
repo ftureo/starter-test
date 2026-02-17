@@ -1,0 +1,86 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+@import "../styles/sonner.css";
+
+@custom-variant dark (&:is(.dark *));
+
+@theme inline {
+    --color-background: var(--background);
+    --color-foreground: var(--foreground);
+    --color-ring: var(--ring);
+    --color-input: var(--input);
+    --color-border: var(--border);
+    --color-destructive: var(--destructive);
+    --color-accent-foreground: var(--accent-foreground);
+    --color-accent: var(--accent);
+    --color-muted-foreground: var(--muted-foreground);
+    --color-muted: var(--muted);
+    --color-secondary-foreground: var(--secondary-foreground);
+    --color-secondary: var(--secondary);
+    --color-primary-foreground: var(--primary-foreground);
+    --color-primary: var(--primary);
+    --color-popover-foreground: var(--popover-foreground);
+    --color-popover: var(--popover);
+    --color-card-foreground: var(--card-foreground);
+    --color-card: var(--card);
+    --radius-sm: calc(var(--radius) - 4px);
+    --radius-md: calc(var(--radius) - 2px);
+    --radius-lg: var(--radius);
+    --radius-xl: calc(var(--radius) + 4px);
+}
+
+:root {
+    --radius: 0.625rem;
+    --background: #FAF8F5;
+    --foreground: #3D3530;
+    --card: #ffffff;
+    --card-foreground: #3D3530;
+    --popover: #ffffff;
+    --popover-foreground: #3D3530;
+    --primary: #B06B70;
+    /* wine-500 - CTAs principales */
+    --primary-foreground: #ffffff;
+    --secondary: #E8DFD0;
+    /* sand-200 */
+    --secondary-foreground: #3D3530;
+    --muted: #F0EBE6;
+    --muted-foreground: #6B635C;
+    --accent: #B07D72;
+    /* terracotta-500 */
+    --accent-foreground: #ffffff;
+    --destructive: #B06B70;
+    --border: #E8E2DC;
+    --input: #E8E2DC;
+    --ring: #B06B70;
+}
+
+.dark {
+    --background: #1C1916;
+    --foreground: #F0EDE8;
+    --card: #252220;
+    --card-foreground: #F0EDE8;
+    --popover: #252220;
+    --popover-foreground: #F0EDE8;
+    --primary: #C98A8E;
+    --primary-foreground: #ffffff;
+    --secondary: #3D3530;
+    --secondary-foreground: #F0EDE8;
+    --muted: #2A2522;
+    --muted-foreground: #A09890;
+    --accent: #C49A8A;
+    --accent-foreground: #ffffff;
+    --destructive: #C75050;
+    --border: #3A332E;
+    --input: #3A332E;
+    --ring: #C98A8E;
+}
+
+@layer base {
+    * {
+        @apply border-border outline-ring/50;
+    }
+
+    body {
+        @apply bg-background text-foreground;
+    }
+}

@@ -1,0 +1,44 @@
+/* Estilos personalizados para Sonner */
+[data-sonner-toaster][data-theme="light"] {
+    --toast-bg: var(--background);
+    --toast-border: var(--border);
+    --toast-text: var(--foreground);
+}
+
+[data-sonner-toaster][data-theme="dark"] {
+    --toast-bg: var(--background);
+    --toast-border: var(--border);
+    --toast-text: var(--foreground);
+}
+
+/* Estilos para toast de éxito (primary) */
+[data-sonner-toast][data-type="success"] {
+    background-color: rgba(229, 0, 126, 0.8) !important;
+    /* primary con 80% de opacidad */
+    border-color: rgba(229, 0, 126, 0.9) !important;
+    color: var(--primary-foreground) !important;
+}
+
+/* Estilos para toast de error (accent) */
+[data-sonner-toast][data-type="error"] {
+    background-color: rgba(1, 158, 227, 0.8) !important;
+    /* accent con 80% de opacidad */
+    border-color: rgba(1, 158, 227, 0.9) !important;
+    color: var(--accent-foreground) !important;
+}
+
+/* Estilos para toast de warning (secondary) */
+[data-sonner-toast][data-type="warning"] {
+    background-color: rgba(255, 236, 1, 0.8) !important;
+    /* secondary con 80% de opacidad */
+    border-color: rgba(255, 236, 1, 0.9) !important;
+    color: var(--secondary-foreground) !important;
+}
+
+/* Estilos para toast de info (secondary) */
+[data-sonner-toast][data-type="info"] {
+    background-color: rgba(255, 236, 1, 0.8) !important;
+    /* secondary con 80% de opacidad */
+    border-color: rgba(255, 236, 1, 0.9) !important;
+    color: var(--secondary-foreground) !important;
+}

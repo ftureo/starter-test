@@ -1,0 +1,237 @@
+/**
+ * Auto-generated from scraped data.
+ * Compatible with siteConfig / config.site pattern.
+ * Source: https://www.chloeokeeffe.ie/
+ * Scraped at: 2026-02-16T22:44:05.243Z
+ */
+
+export const scrapedSite = {
+  url: "https://www.chloeokeeffe.ie/",
+  scrapedAt: "2026-02-16T22:44:05.243Z",
+  metadata: {
+  "title": "Chloe O' Keeffe",
+  "description": "",
+  "ogImage": "https://framerusercontent.com/images/nPjNzykNTzmY3eb37MsYbG6aIA.jpg",
+  "ogTitle": "Chloe O' Keeffe"
+} as const,
+  headings: [
+  {
+    "level": "h1",
+    "text": "Yoga with Chloe"
+  },
+  {
+    "level": "h2",
+    "text": "Mindful living for the Modern world."
+  },
+  {
+    "level": "h1",
+    "text": "Yoga & Breathwork"
+  },
+  {
+    "level": "h2",
+    "text": "I teach weekly classes and offer 1:1 sessions in Breathwork and Yoga including Prenatal Yoga. My tailored approach focuses on removing mental and physical blockages, helping you reconnect with yourself and live with ease."
+  },
+  {
+    "level": "h1",
+    "text": "Events & Retreats"
+  },
+  {
+    "level": "h2",
+    "text": "I host immersive events and retreats centered around Transformational Breathwork, Healing circles and different types of Yoga. These experiences are designed to help you unplug from the noise and build meaningful connections."
+  },
+  {
+    "level": "h2",
+    "text": "Want to try one of my online meditations?Check one out below on the Insight Timer app - its free!"
+  },
+  {
+    "level": "h2",
+    "text": "Client Feedback"
+  },
+  {
+    "level": "h3",
+    "text": "Benyoga student"
+  },
+  {
+    "level": "h3",
+    "text": "Nataliabreathwork student"
+  },
+  {
+    "level": "h3",
+    "text": "Endabreathwork student"
+  },
+  {
+    "level": "h3",
+    "text": "Michaelaretreat attendee"
+  },
+  {
+    "level": "h3",
+    "text": "Filippa"
+  },
+  {
+    "level": "h3",
+    "text": "Amporo"
+  },
+  {
+    "level": "h2",
+    "text": "Join the communityStay up to date with my events and retreats."
+  },
+  {
+    "level": "h2",
+    "text": "\"Listen to the ocean,"
+  },
+  {
+    "level": "h2",
+    "text": "For she will bring you home,"
+  },
+  {
+    "level": "h2",
+    "text": "Watch the sunrise and set,"
+  },
+  {
+    "level": "h2",
+    "text": "And you’ll never be alone..\""
+  }
+] as const,
+  images: [
+  {
+    "src": "https://framerusercontent.com/images/CgxptZ6gvYpQXkpSI7bFPyJv4OU.jpg?width=3412&height=5118",
+    "alt": "yoga pose",
+    "width": 837,
+    "height": 1255
+  },
+  {
+    "src": "https://framerusercontent.com/images/ulKC0zaQVFB0eXA7bl1YNDBL0U.jpg?width=1365&height=2048",
+    "alt": "",
+    "width": 1000,
+    "height": 1500
+  },
+  {
+    "src": "https://framerusercontent.com/images/KtD1LupHDUDXyd0ScUvsuPCsh5g.jpg?width=4128&height=4985",
+    "alt": "",
+    "width": 1000,
+    "height": 1208
+  },
+  {
+    "src": "https://framerusercontent.com/images/zQCOzqM9UhgNrNbiWwZt5ClfIdY.jpg?width=1365&height=2048",
+    "alt": "",
+    "width": 458,
+    "height": 687
+  },
+  {
+    "src": "https://framerusercontent.com/images/XMLlqoXEylGq32dpvTaPAa5XJA.jpeg?width=206&height=206",
+    "alt": "",
+    "width": 206,
+    "height": 206
+  },
+  {
+    "src": "https://framerusercontent.com/images/ELhXDGdAA5BoKGgFfoYnHJSKDo.png?width=264&height=148",
+    "alt": "",
+    "width": 264,
+    "height": 148
+  },
+  {
+    "src": "https://framerusercontent.com/images/oFPhhcArmJkCqNgbyeer3JjskFk.jpeg?width=225&height=225",
+    "alt": "",
+    "width": 225,
+    "height": 225
+  },
+  {
+    "src": "https://framerusercontent.com/images/pQTsSduxVYVdJfp7Qico7RAyzE.png?width=2400&height=811",
+    "alt": "",
+    "width": 171,
+    "height": 57
+  },
+  {
+    "src": "https://framerusercontent.com/images/3GlAIhkWZ2mSN7waB9OZ2lEzsmY.webp?width=500&height=100",
+    "alt": "",
+    "width": 500,
+    "height": 100
+  },
+  {
+    "src": "https://framerusercontent.com/images/7e5NODA9FHgP4ObqEzp0zcaui5U.png?width=310&height=162",
+    "alt": "",
+    "width": 310,
+    "height": 162
+  },
+  {
+    "src": "https://framerusercontent.com/images/KtD1LupHDUDXyd0ScUvsuPCsh5g.jpg?width=4128&height=4985",
+    "alt": "",
+    "width": 516,
+    "height": 623
+  }
+] as const,
+  testimonials: [
+  {
+    "name": "Ben",
+    "role": "yoga student",
+    "description": "Best Yoga-teacher I’ve ever met. She really knows what she does. And helps the inflexible like me. :)"
+  },
+  {
+    "name": "Natalia",
+    "role": "breathwork student",
+    "description": "Chloe!! What a great teacher and soul you are. I love your soft and gentle voice during classes and my favourite part was the quotes in the end of the class, always left me so happy and warm. 3 weeks in Nicaragua together and never missed a class ❤️"
+  },
+  {
+    "name": "Enda",
+    "role": "breathwork student",
+    "description": "Best Yoga-teacher I’ve ever met. She really knows what she does. And helps the inflexible like me. :)"
+  },
+  {
+    "name": "Michaela",
+    "role": "retreat attendee",
+    "description": "Every session with Chloe is truly beautiful and nourishing for the heart. She has a special gift for creating harmony and transmitting genuine kindness. You can feel that she truly loves what she does, and that energy fills the space in such a powerful way. Her breathwork sessions, are transformative, they always shift my energy completely. I couldn’t recommend them enough; they’re truly a before and after experience."
+  },
+  {
+    "name": "Filippa",
+    "role": "",
+    "description": "Best Yoga-teacher I’ve ever met. She really knows what she does. And helps the inflexible like me. :)"
+  },
+  {
+    "name": "Amporo",
+    "role": "",
+    "description": "Really enjoy Chloe classes. They are soothing and have a nice flow to them. She incorporates breathwork and poetry which is fab. Also, she always reminds to introduce an intention and bringing awareness to our life."
+  }
+] as const,
+  offerings: {
+  "pageTitle": "My offerings",
+  "intro": "I guide students through yoga, breathwork, and meditation to cultivate a life of clarity and deep connection. My offerings bridge yogic wisdom, poetry and modern mindfulness to help you find true balance in a fast-paced world.",
+  "items": [
+    {
+      "title": "Breathwork",
+      "description": "Experience the transformative power of conscious breathing through a private breathwork session. These sessions are designed to help you release stored tension, clear mental blockages, and regulate your nervous system. If you are interested in a tailored group breathwork session, please reach out.",
+      "image": "https://framerusercontent.com/images/KtD1LupHDUDXyd0ScUvsuPCsh5g.jpg?width=4128&height=4985"
+    },
+    {
+      "title": "Yoga",
+      "description": "I teach Hatha, Yin and Pre/Post Natal Yoga and you can currently find me teaching at Yoga Hub Blackrock and Yoga Dublin Ranleagh. I also teach corporate classes and one to one yoga classes and programs, completely personalised to your needs.",
+      "image": "https://framerusercontent.com/images/ulKC0zaQVFB0eXA7bl1YNDBL0U.jpg?width=1365&height=2048"
+    },
+    {
+      "title": "Events",
+      "description": "From cozy indoor winter gatherings to summer circles along the coast, I host events that move with the rhythm of the seasons. These events include Transformational Breathwork, Healing circles and outdoor community yoga classes, all based around the Monkstown/Blackrock area.",
+      "image": "https://framerusercontent.com/images/oNUpgVQJf1v39LokZGjOG2FelJQ.png?width=498&height=572"
+    },
+    {
+      "title": "Retreats",
+      "description": "Ive hosted retreats in the Blue Mountains, the jungles of Bali, and the sacred landscapes of Wicklow, Ireland. I invite you to join our community and stay tuned for my next retreat by subscribing below.",
+      "image": "https://framerusercontent.com/images/ulKC0zaQVFB0eXA7bl1YNDBL0U.jpg?width=1365&height=2048"
+    }
+  ]
+} as const,
+  oneToOne: [
+  {
+    "slug": "one-to-one-breathwork",
+    "title": "One to One Breathwork",
+    "description": "Experience the power of a personalised  breathwork session.",
+    "url": "https://www.chloeokeeffe.ie/one-to-one-breathwork"
+  },
+  {
+    "slug": "one-to-one-yoga",
+    "title": "One to One Yoga",
+    "description": "Experience the power of a personalised yoga session or program.",
+    "url": "https://www.chloeokeeffe.ie/one-to-one-yoga"
+  }
+] as const,
+} as const;
+
+export type ScrapedSiteData = typeof scrapedSite;
