@@ -31,7 +31,7 @@ export default async function AdminDashboard() {
             <div>
                 <h1 className="text-3xl font-bold text-white">Dashboard</h1>
                 <p className="text-gray-400 mt-2">
-                    Bienvenido al panel de administración de BAB 3D
+                    Bienvenido al panel de administración
                 </p>
             </div>
 

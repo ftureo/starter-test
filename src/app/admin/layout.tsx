@@ -3,8 +3,8 @@ import Link from "next/link";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-    title: "Admin Dashboard | BAB 3D",
-    description: "Panel de administración de BAB 3D Printing & Design",
+    title: "Admin Dashboard | Chloe Yoga",
+    description: "Panel de administración de Chloe Yoga",
     keywords: ["admin", "dashboard", "administración", "panel"],
 };
 
@@ -21,7 +21,7 @@ export default function AdminLayout({ children }: AdminLayoutProps) {
                     {/* Logo */}
                     <div className="flex h-16 items-center border-b border-gray-800 px-6">
                         <Link href="/admin" className="text-xl font-bold text-white">
-                            BAB 3D Admin
+                            Chloe Yoga Admin
                         </Link>
                     </div>
 
